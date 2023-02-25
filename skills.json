@@ -1,0 +1,33 @@
+{
+  "my_future_skills": {
+    "I_will_know": [
+      "Basic Theory, SDLC, STLC.",
+      "What is a client-server architecture.",
+      "HTTP Methods of requests to the server.",
+      "HTTP server response codes.",
+      "HTTP request and response structures.",
+      "What is JSON, XML. Their structure.",
+      "API testing via Postman (JS, API autotests).",
+      "Capturing and reading logs from an external server.",
+      "Sniffing http web traffic through Charles and Fiddler.",
+      "all countries of south america",
+      "VPN. (How it works, why you need it, how to use it, tool options)",
+      "Mobile testing.",
+      "Feature iOS, Android, guidelines.",
+      "Building iOS apps in XCode.",
+      "Building Android apps on Android Studio.",
+      "ADB (android device management).",
+      "Setting up proxies and vpn on iOS and Android.",
+      "Intercepting (sniffing) mobile traffic through Charles and Fiddler on iOS and Android.",
+      "Linux command line (terminal).",
+      "Basics of bash scripting, automation of routine tasks on the server.",
+      "Access to remote servers.",
+      "SQL basics.",
+      "Postgres database (installation, configuration and use).",
+      "Redis nonrelational database (installation, configuration and use).",
+      "Load testing in Jmeter.",
+      "Scrum development methodology.",
+      "Python. (Learning the basics. Creating a client-server application)"
+    ]
+  }
+}
